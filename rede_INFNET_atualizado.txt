@@ -1,0 +1,33 @@
+{'nome': 'Matheus', 'idade': 22, 'localizacao': ('Leme', 'SP'), 'amigos': {'Gabriela', 'Aline'}}
+{'nome': 'Gabriela', 'idade': 20, 'localizacao': ('Leme', 'SP'), 'amigos': {'Lucas', 'Aline'}}
+{'nome': 'Juliane', 'idade': 33, 'localizacao': ('Rio de janeiro', 'RJ'), 'amigos': {'Lucas', 'Aline'}}
+{'nome': 'João', 'idade': '25', 'localizacao': ('Rio de Janeiro', 'RJ'), 'amigos': {'Carlos', 'Marcos', 'Ana'}}
+{'nome': 'Ana', 'idade': '22', 'localizacao': ('São Paulo', 'SP'), 'amigos': {'João', 'Fernanda'}}
+{'nome': 'Carlos', 'idade': '30', 'localizacao': ('Belo Horizonte', 'MG'), 'amigos': {'João', 'Caio', 'Marcos'}}
+{'nome': 'Fernanda', 'idade': '28', 'localizacao': ('Curitiba', 'PR'), 'amigos': {'Ana'}}
+{'nome': 'Marcos', 'idade': '27', 'localizacao': ('Porto Alegre', 'RS'), 'amigos': {'João', 'Carlos'}}
+{'nome': 'Clara', 'idade': '26', 'localizacao': ('Brasília', 'DF'), 'amigos': {'Fernanda', 'Lívia'}}
+{'nome': 'Lívia', 'idade': '24', 'localizacao': ('São Paulo', 'SP'), 'amigos': {'Clara', 'Lucas', 'Marcos'}}
+{'nome': 'Lucas', 'idade': '31', 'localizacao': ('Salvador', 'BA'), 'amigos': {'Lívia', 'Fernando'}}
+{'nome': 'Fernando', 'idade': '29', 'localizacao': ('Fortaleza', 'CE'), 'amigos': {'Lucas', 'Aline'}}
+{'nome': 'Aline', 'idade': '23', 'localizacao': ('Florianópolis', 'SC'), 'amigos': {'Fernando', 'Clara', 'Caio'}}
+{'nome': 'Caio', 'idade': '27', 'localizacao': ('Curitiba', 'PR'), 'amigos': {'Clara', 'Aline'}}
+{'nome': 'Sofia', 'idade': '21', 'localizacao': ('Campinas', 'SP'), 'amigos': {'Fernanda', 'Rafaela'}}
+{'nome': 'Rafaela', 'idade': '22', 'localizacao': ('Recife', 'PE'), 'amigos': {'Clara', 'Sofia'}}
+{'nome': 'Mateus', 'idade': '32', 'localizacao': ('Rio de Janeiro', 'RJ'), 'amigos': {'João', 'Caio', 'Fernando'}}
+{'nome': 'Tiago', 'idade': '28', 'localizacao': ('Brasília', 'DF'), 'amigos': {'Lívia', 'Mateus', 'Aline'}}
+{'nome': 'Paulo', 'idade': '33', 'localizacao': ('', 'RN'), 'amigos': {'Fernanda', 'Lucas', 'Tiago'}}
+{'nome': 'Juliana', 'idade': '25', 'localizacao': ('São Paulo', 'SP'), 'amigos': {'Marcos', 'Sofia', 'Rafaela'}}
+{'nome': 'Pedro', 'idade': '26', 'localizacao': ('Belo Horizonte', 'MG'), 'amigos': {'João', 'Aline'}}
+{'nome': 'Amanda', 'idade': '24', 'localizacao': ('Porto Alegre', 'RS'), 'amigos': {'Pedro', 'Caio', 'Lívia'}}
+{'nome': 'Bruno', 'idade': '30', 'localizacao': ('Cuiabá', 'MT'), 'amigos': {'Mateus', 'Marcos', 'Ana'}}
+{'nome': 'Carla', 'idade': '29', 'localizacao': ('Salvador', 'BA'), 'amigos': {'Fernando', 'Lucas', 'Tiago'}}
+{'nome': 'Gabriela', 'idade': '27', 'localizacao': ('Fortaleza', 'CE'), 'amigos': {'Aline', 'Rafaela', 'Carla'}}
+{'nome': 'Desconhecido', 'idade': '22', 'localizacao': ('Rio de Janeiro', 'RJ'), 'amigos': {'Clara', 'Bruno'}}
+{'nome': 'Thiago', 'idade': '31', 'localizacao': ('São Paulo', 'SP'), 'amigos': {'João', 'Amanda', 'Lucas', 'Clara'}}
+{'nome': 'Renata', 'idade': '23', 'localizacao': ('Curitiba', 'PR'), 'amigos': {'Clara', 'Fernando', 'Sofia'}}
+{'nome': 'Leonardo', 'idade': '29', 'localizacao': ('Campinas', 'SP'), 'amigos': {'Caio', 'Mateus', 'Renata'}}
+{'nome': 'Camila', 'idade': '28', 'localizacao': ('Niterói', 'RJ'), 'amigos': {'Caio', 'Lucas', 'Bruno', 'Juliana'}}
+{'nome': 'Felipe', 'idade': '27', 'localizacao': ('Brasília', 'DF'), 'amigos': {'Renata', 'Carla'}}
+{'nome': 'Mariana', 'idade': '30', 'localizacao': ('Porto Alegre', 'RS'), 'amigos': {'Felipe', 'Lívia', 'Fernando'}}
+{'nome': 'Daniel', 'idade': '25', 'localizacao': ('Rio de Janeiro', 'RJ'), 'amigos': {'Camila', 'Amanda', 'Paulo'}}
